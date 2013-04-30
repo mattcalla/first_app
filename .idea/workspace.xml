@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="16746913-5db3-4fca-814d-ca68c0fd9c63" time="1367354242999" ignored="false" />
     <file path="/database.yml" changelist="16746913-5db3-4fca-814d-ca68c0fd9c63" time="1367354492029" ignored="false" />
-    <file path="/Dummy.txt" changelist="16746913-5db3-4fca-814d-ca68c0fd9c63" time="1367359229777" ignored="false" />
+    <file path="/Dummy.txt" changelist="16746913-5db3-4fca-814d-ca68c0fd9c63" time="1367361787975" ignored="false" />
     <file path="/README.rdoc" changelist="16746913-5db3-4fca-814d-ca68c0fd9c63" time="1367359215859" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="131" selection-end="131" vertical-scroll-proportion="0.21702127">
+            <state line="13" column="43" selection-start="327" selection-end="327" vertical-scroll-proportion="0.47021276">
               <folding />
             </state>
           </provider>
@@ -423,7 +423,11 @@
       <created>1367359231460</created>
       <updated>1367359231460</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Gemfile to include JRuby for heroku">
+      <created>1367361795762</created>
+      <updated>1367361795762</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -493,7 +497,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="smacker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Gemfile to include JRuby for heroku" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -511,6 +515,7 @@
     <MESSAGE value="Edited Readme" />
     <MESSAGE value="After installing heroku" />
     <MESSAGE value="smacker" />
+    <MESSAGE value="Update Gemfile to include JRuby for heroku" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -581,7 +586,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="131" selection-end="131" vertical-scroll-proportion="0.21702127">
+        <state line="13" column="43" selection-start="327" selection-end="327" vertical-scroll-proportion="0.47021276">
           <folding />
         </state>
       </provider>
