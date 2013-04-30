@@ -23,6 +23,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.2.13, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord-jdbc-adapter (v1.2.9, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord-jdbcmysql-adapter (v1.2.9, jruby-1.7.3-p385) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-jdbcpostgresql-adapter (v1.2.9, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.2.13, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.2.13, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v3.0.2, jruby-1.7.3-p385) [gem]" level="application" />
@@ -37,6 +38,7 @@
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.2, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.1, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jdbc-mysql (v5.1.24, jruby-1.7.3-p385) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jdbc-postgres (v9.2.1002.1, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="journey (v1.0.4, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v2.0.2, jruby-1.7.3-p385) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jruby-openssl (v0.8.8, jruby-1.7.3-p385) [gem]" level="application" />
